@@ -1,0 +1,56 @@
+﻿@using WppAI.Models;
+@{
+    ViewBag.Title = "BranchEntry";
+    EmployeeDetailsEntities1 db = new EmployeeDetailsEntities1();
+}
+
+<h2>BranchEntry</h2>
+<form action="/WI/BranchEntry" method="post">
+    <div class="form-horizontal">
+        <div class="form-group">
+            <input type="hidden" name="BranchId" id="BranchId" value="@Model.BranchId" />
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-6 col-md-offset-4 alert alert-info">
+                        <label class="form-control">Branch</label>
+                        <input type="text" name="BranchName" id="BranchName" value="@Model.BranchName" placeholder="Enter Branch Name" autocomplete="off" />
+                    </div>
+
+
+                </div>
+                <br />
+                <br />
+                <center> <input type="submit" value="Save" class="btn btn-success" /></center><br />
+            </div>
+        </div>
+    </div>
+</form>
+<form>
+    <div class="form-horizontal">
+        <div class="form-group">
+            <table class="table table-bordered table-striped">
+                <tr>
+                    <th>Name</th>
+                    <th>Edit</th>
+                    @if (User.IsInRole("admin"))
+                    {
+                        <th>Delete</th>
+                    }
+                </tr>
+                @foreach (var item in db.Branches)
+                {
+
+                    <tr>
+                        <td>@item.BranchName</td>
+                        <td><a href="/WI/BranchEntry?id=@item.BranchId">Edit</a></td>
+                        @if (User.IsInRole("admin"))
+                        {
+                            <td><a href="/WI/delBranchEntry?id=@item.BranchId">Delete</a></td>
+                        }
+                    </tr>
+                }
+            </table>
+        </div>
+    </div>
+</form>
+

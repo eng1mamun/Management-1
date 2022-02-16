@@ -1,0 +1,54 @@
+﻿@using WppAI.Models;
+@{
+    ViewBag.Title = "DesignationInfo";
+    EmployeeDetailsEntities1 db = new EmployeeDetailsEntities1();
+}
+
+<div class="text-danger"><center><h2>DesignationInfo</h2></center></div>
+<form action="/WI/DesignationInfo" method="post">
+    <div class="form-horizontal">
+        <div class="form-group">
+            <input type="hidden" name="DesignationId" id="DesignationId" value="@Model.DesignationId" />
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-6 col-md-offset-4 alert alert-info">
+                        <label class="form-control">Designation</label>
+                        <input type="text" name="DesignationName" id="DesignationName" value="@Model.DesignationName" placeholder="Enter Designation Name" autocomplete="off" />
+                    </div>
+
+
+                </div>
+                <br />
+                <br />
+                <center> <input type="submit" value="Save" class="btn btn-success" /></center><br />
+            </div>
+    </div>
+        </div>
+</form>
+<form>
+    <div class="form-horizontal">
+        <div class="form-group">
+            <table class="table table-bordered table-striped">
+                <tr>
+                    <th>Name</th>
+                    <th>Edit</th>
+@if (User.IsInRole("admin"))
+{
+                    <th>Delete</th>
+}
+                </tr>
+                @foreach (var item in db.Designations)
+                {
+                    
+                    <tr>
+                        <td>@item.DesignationName</td>
+                        <td><a href="/WI/DesignationInfo?id=@item.DesignationId">Edit</a></td>
+                        @if (User.IsInRole("admin"))  {
+                        <td><a href="/WI/delDesignationInfo?id=@item.DesignationId">Delete</a></td>
+                        }
+                    </tr>
+                }
+            </table>
+        </div>
+    </div>
+</form>

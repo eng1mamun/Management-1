@@ -1,0 +1,164 @@
+G:\Project\WppAI\WppAI\obj\Debug\WppAI.csprojResolveAssemblyReference.cache
+G:\Project\WppAI\WppAI\bin\ApplicationInsights.config
+G:\Project\WppAI\WppAI\bin\roslyn\csc.exe
+G:\Project\WppAI\WppAI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\Project\WppAI\WppAI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\Project\WppAI\WppAI\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\Project\WppAI\WppAI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\Project\WppAI\WppAI\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\Project\WppAI\WppAI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\Project\WppAI\WppAI\bin\roslyn\System.Collections.Immutable.dll
+G:\Project\WppAI\WppAI\bin\roslyn\System.Reflection.Metadata.dll
+G:\Project\WppAI\WppAI\bin\roslyn\vbc.exe
+G:\Project\WppAI\WppAI\bin\roslyn\VBCSCompiler.exe
+G:\Project\WppAI\WppAI\bin\roslyn\VBCSCompiler.exe.config
+G:\Project\WppAI\WppAI\bin\WppAI.dll.config
+G:\Project\WppAI\WppAI\bin\WppAI.dll
+G:\Project\WppAI\WppAI\bin\WppAI.pdb
+G:\Project\WppAI\WppAI\bin\Antlr3.Runtime.dll
+G:\Project\WppAI\WppAI\bin\EntityFramework.dll
+G:\Project\WppAI\WppAI\bin\EntityFramework.SqlServer.dll
+G:\Project\WppAI\WppAI\bin\Microsoft.AI.Agent.Intercept.dll
+G:\Project\WppAI\WppAI\bin\Microsoft.AI.DependencyCollector.dll
+G:\Project\WppAI\WppAI\bin\Microsoft.AI.PerfCounterCollector.dll
+G:\Project\WppAI\WppAI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+G:\Project\WppAI\WppAI\bin\Microsoft.AI.Web.dll
+G:\Project\WppAI\WppAI\bin\Microsoft.AI.WindowsServer.dll
+G:\Project\WppAI\WppAI\bin\Microsoft.ApplicationInsights.dll
+G:\Project\WppAI\WppAI\bin\Microsoft.AspNet.Identity.Core.dll
+G:\Project\WppAI\WppAI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+G:\Project\WppAI\WppAI\bin\Microsoft.AspNet.Identity.Owin.dll
+G:\Project\WppAI\WppAI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\Project\WppAI\WppAI\bin\Microsoft.Owin.dll
+G:\Project\WppAI\WppAI\bin\Microsoft.Owin.Host.SystemWeb.dll
+G:\Project\WppAI\WppAI\bin\Microsoft.Owin.Security.Cookies.dll
+G:\Project\WppAI\WppAI\bin\Microsoft.Owin.Security.dll
+G:\Project\WppAI\WppAI\bin\Microsoft.Owin.Security.Facebook.dll
+G:\Project\WppAI\WppAI\bin\Microsoft.Owin.Security.Google.dll
+G:\Project\WppAI\WppAI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+G:\Project\WppAI\WppAI\bin\Microsoft.Owin.Security.OAuth.dll
+G:\Project\WppAI\WppAI\bin\Microsoft.Owin.Security.Twitter.dll
+G:\Project\WppAI\WppAI\bin\Microsoft.Web.Infrastructure.dll
+G:\Project\WppAI\WppAI\bin\Newtonsoft.Json.dll
+G:\Project\WppAI\WppAI\bin\Owin.dll
+G:\Project\WppAI\WppAI\bin\System.Web.Helpers.dll
+G:\Project\WppAI\WppAI\bin\System.Web.Mvc.dll
+G:\Project\WppAI\WppAI\bin\System.Web.Optimization.dll
+G:\Project\WppAI\WppAI\bin\System.Web.Razor.dll
+G:\Project\WppAI\WppAI\bin\System.Web.WebPages.Deployment.dll
+G:\Project\WppAI\WppAI\bin\System.Web.WebPages.dll
+G:\Project\WppAI\WppAI\bin\System.Web.WebPages.Razor.dll
+G:\Project\WppAI\WppAI\bin\WebGrease.dll
+G:\Project\WppAI\WppAI\bin\Microsoft.AI.DependencyCollector.xml
+G:\Project\WppAI\WppAI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+G:\Project\WppAI\WppAI\bin\Microsoft.AI.Web.xml
+G:\Project\WppAI\WppAI\bin\Microsoft.AI.WindowsServer.xml
+G:\Project\WppAI\WppAI\bin\Microsoft.ApplicationInsights.xml
+G:\Project\WppAI\WppAI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\Project\WppAI\WppAI\bin\System.Web.Helpers.xml
+G:\Project\WppAI\WppAI\bin\System.Web.Mvc.xml
+G:\Project\WppAI\WppAI\bin\System.Web.Optimization.xml
+G:\Project\WppAI\WppAI\bin\System.Web.Razor.xml
+G:\Project\WppAI\WppAI\bin\System.Web.WebPages.xml
+G:\Project\WppAI\WppAI\bin\System.Web.WebPages.Deployment.xml
+G:\Project\WppAI\WppAI\bin\System.Web.WebPages.Razor.xml
+G:\Project\WppAI\WppAI\bin\Antlr3.Runtime.pdb
+G:\Project\WppAI\WppAI\bin\Newtonsoft.Json.xml
+G:\Project\WppAI\WppAI\bin\EntityFramework.xml
+G:\Project\WppAI\WppAI\bin\EntityFramework.SqlServer.xml
+G:\Project\WppAI\WppAI\bin\Microsoft.AspNet.Identity.Core.xml
+G:\Project\WppAI\WppAI\bin\Microsoft.AspNet.Identity.Owin.xml
+G:\Project\WppAI\WppAI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+G:\Project\WppAI\WppAI\bin\Microsoft.Owin.xml
+G:\Project\WppAI\WppAI\bin\Microsoft.Owin.Host.SystemWeb.xml
+G:\Project\WppAI\WppAI\bin\Microsoft.Owin.Security.xml
+G:\Project\WppAI\WppAI\bin\Microsoft.Owin.Security.Facebook.xml
+G:\Project\WppAI\WppAI\bin\Microsoft.Owin.Security.Cookies.xml
+G:\Project\WppAI\WppAI\bin\Microsoft.Owin.Security.OAuth.xml
+G:\Project\WppAI\WppAI\bin\Microsoft.Owin.Security.Google.xml
+G:\Project\WppAI\WppAI\bin\Microsoft.Owin.Security.Twitter.xml
+G:\Project\WppAI\WppAI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+G:\Project\WppAI\WppAI\obj\Debug\WppAI.dll
+G:\Project\WppAI\WppAI\obj\Debug\WppAI.pdb
+D:\Project (asp dot net)\WppAI\WppAI\bin\ApplicationInsights.config
+D:\Project (asp dot net)\WppAI\WppAI\bin\roslyn\csc.exe
+D:\Project (asp dot net)\WppAI\WppAI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Project (asp dot net)\WppAI\WppAI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Project (asp dot net)\WppAI\WppAI\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Project (asp dot net)\WppAI\WppAI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Project (asp dot net)\WppAI\WppAI\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Project (asp dot net)\WppAI\WppAI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Project (asp dot net)\WppAI\WppAI\bin\roslyn\System.Collections.Immutable.dll
+D:\Project (asp dot net)\WppAI\WppAI\bin\roslyn\System.Reflection.Metadata.dll
+D:\Project (asp dot net)\WppAI\WppAI\bin\roslyn\vbc.exe
+D:\Project (asp dot net)\WppAI\WppAI\bin\roslyn\VBCSCompiler.exe
+D:\Project (asp dot net)\WppAI\WppAI\bin\roslyn\VBCSCompiler.exe.config
+D:\Project (asp dot net)\WppAI\WppAI\bin\WppAI.dll.config
+D:\Project (asp dot net)\WppAI\WppAI\bin\WppAI.dll
+D:\Project (asp dot net)\WppAI\WppAI\bin\WppAI.pdb
+D:\Project (asp dot net)\WppAI\WppAI\bin\Antlr3.Runtime.dll
+D:\Project (asp dot net)\WppAI\WppAI\bin\EntityFramework.dll
+D:\Project (asp dot net)\WppAI\WppAI\bin\EntityFramework.SqlServer.dll
+D:\Project (asp dot net)\WppAI\WppAI\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Project (asp dot net)\WppAI\WppAI\bin\Microsoft.AI.DependencyCollector.dll
+D:\Project (asp dot net)\WppAI\WppAI\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Project (asp dot net)\WppAI\WppAI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Project (asp dot net)\WppAI\WppAI\bin\Microsoft.AI.Web.dll
+D:\Project (asp dot net)\WppAI\WppAI\bin\Microsoft.AI.WindowsServer.dll
+D:\Project (asp dot net)\WppAI\WppAI\bin\Microsoft.ApplicationInsights.dll
+D:\Project (asp dot net)\WppAI\WppAI\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Project (asp dot net)\WppAI\WppAI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Project (asp dot net)\WppAI\WppAI\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Project (asp dot net)\WppAI\WppAI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Project (asp dot net)\WppAI\WppAI\bin\Microsoft.Owin.dll
+D:\Project (asp dot net)\WppAI\WppAI\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Project (asp dot net)\WppAI\WppAI\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Project (asp dot net)\WppAI\WppAI\bin\Microsoft.Owin.Security.dll
+D:\Project (asp dot net)\WppAI\WppAI\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Project (asp dot net)\WppAI\WppAI\bin\Microsoft.Owin.Security.Google.dll
+D:\Project (asp dot net)\WppAI\WppAI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Project (asp dot net)\WppAI\WppAI\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Project (asp dot net)\WppAI\WppAI\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Project (asp dot net)\WppAI\WppAI\bin\Microsoft.Web.Infrastructure.dll
+D:\Project (asp dot net)\WppAI\WppAI\bin\Newtonsoft.Json.dll
+D:\Project (asp dot net)\WppAI\WppAI\bin\Owin.dll
+D:\Project (asp dot net)\WppAI\WppAI\bin\System.Web.Helpers.dll
+D:\Project (asp dot net)\WppAI\WppAI\bin\System.Web.Mvc.dll
+D:\Project (asp dot net)\WppAI\WppAI\bin\System.Web.Optimization.dll
+D:\Project (asp dot net)\WppAI\WppAI\bin\System.Web.Razor.dll
+D:\Project (asp dot net)\WppAI\WppAI\bin\System.Web.WebPages.Deployment.dll
+D:\Project (asp dot net)\WppAI\WppAI\bin\System.Web.WebPages.dll
+D:\Project (asp dot net)\WppAI\WppAI\bin\System.Web.WebPages.Razor.dll
+D:\Project (asp dot net)\WppAI\WppAI\bin\WebGrease.dll
+D:\Project (asp dot net)\WppAI\WppAI\bin\Microsoft.AI.DependencyCollector.xml
+D:\Project (asp dot net)\WppAI\WppAI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Project (asp dot net)\WppAI\WppAI\bin\Microsoft.AI.Web.xml
+D:\Project (asp dot net)\WppAI\WppAI\bin\Microsoft.AI.WindowsServer.xml
+D:\Project (asp dot net)\WppAI\WppAI\bin\Microsoft.ApplicationInsights.xml
+D:\Project (asp dot net)\WppAI\WppAI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Project (asp dot net)\WppAI\WppAI\bin\System.Web.Helpers.xml
+D:\Project (asp dot net)\WppAI\WppAI\bin\System.Web.Mvc.xml
+D:\Project (asp dot net)\WppAI\WppAI\bin\System.Web.Optimization.xml
+D:\Project (asp dot net)\WppAI\WppAI\bin\System.Web.Razor.xml
+D:\Project (asp dot net)\WppAI\WppAI\bin\System.Web.WebPages.xml
+D:\Project (asp dot net)\WppAI\WppAI\bin\System.Web.WebPages.Deployment.xml
+D:\Project (asp dot net)\WppAI\WppAI\bin\System.Web.WebPages.Razor.xml
+D:\Project (asp dot net)\WppAI\WppAI\bin\Antlr3.Runtime.pdb
+D:\Project (asp dot net)\WppAI\WppAI\bin\Newtonsoft.Json.xml
+D:\Project (asp dot net)\WppAI\WppAI\bin\EntityFramework.xml
+D:\Project (asp dot net)\WppAI\WppAI\bin\EntityFramework.SqlServer.xml
+D:\Project (asp dot net)\WppAI\WppAI\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Project (asp dot net)\WppAI\WppAI\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Project (asp dot net)\WppAI\WppAI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Project (asp dot net)\WppAI\WppAI\bin\Microsoft.Owin.xml
+D:\Project (asp dot net)\WppAI\WppAI\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Project (asp dot net)\WppAI\WppAI\bin\Microsoft.Owin.Security.xml
+D:\Project (asp dot net)\WppAI\WppAI\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Project (asp dot net)\WppAI\WppAI\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Project (asp dot net)\WppAI\WppAI\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Project (asp dot net)\WppAI\WppAI\bin\Microsoft.Owin.Security.Google.xml
+D:\Project (asp dot net)\WppAI\WppAI\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Project (asp dot net)\WppAI\WppAI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Project (asp dot net)\WppAI\WppAI\obj\Debug\WppAI.csprojResolveAssemblyReference.cache
+D:\Project (asp dot net)\WppAI\WppAI\obj\Debug\WppAI.dll
+D:\Project (asp dot net)\WppAI\WppAI\obj\Debug\WppAI.pdb

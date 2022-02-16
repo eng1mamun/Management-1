@@ -1,0 +1,60 @@
+﻿@using WppAI.Models;
+@{
+    ViewBag.Title = "BranchInfo";
+    EmployeeDetailsEntities1 db = new EmployeeDetailsEntities1();
+    string name = "";
+    if(Model.BranchId>0)
+    {
+        name = "Update";
+    }
+    else
+    {
+        name = "Save";
+    }
+}
+
+<div class="text-danger"><center><h2>BranchInfo</h2></center></div>   
+        <form action="/WI/BranchInfo" method="post">
+            <div class="form-horizontal">
+                <div class="form-group">
+                    <input type="hidden" name="BranchId" id="BranchId" value="@Model.BranchId" />
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-md-6 col-md-offset-4 alert alert-info">
+                                <label class="form-control">Employee Name</label>
+                                <input type="text" name="BranchName" id="BranchName" value="@Model.BranchName" placeholder="Enter Branch Name" autocomplete="off" />
+                            </div>
+
+
+                        </div>
+                        <br />
+                        <br />
+                        <center> <input type="submit" value="@name" class="btn btn-success" /></center><br />
+                    </div>
+                </div>
+            </div>
+        </form>
+        <form>
+            <div class="form-horizontal">
+                <div class="form-group">
+                    <table class="table table-bordered table-striped">
+                        <tr>
+                            <th>Name</th>
+                            <th>Edit</th>
+                            <th>Delete</th>
+
+                        </tr>
+                        @foreach (var item in db.Branches)
+                        {
+                            <tr>
+                                <td>@item.BranchName</td>
+                                <td><a href="/WI/BranchInfo?id=@item.BranchId">Edit</a></td>
+                                <td><a href="/WI/delBranchInfo?id=@item.BranchId">Delete</a></td>
+                            </tr>
+                        }
+                    </table>
+                </div>
+            </div>
+        </form>
+
+

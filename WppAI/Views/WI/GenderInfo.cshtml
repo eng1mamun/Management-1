@@ -1,0 +1,50 @@
+﻿@using WppAI.Models;
+@{
+    ViewBag.Title = "GenderInfo";
+    EmployeeDetailsEntities1 db = new EmployeeDetailsEntities1();
+}
+
+<div class="text-danger"><center><h2>GenderInfo</h2></center></div>
+<form action="/WI/GenderInfo" method="post">
+    <div class="form-horizontal">
+        <div class="form-group">
+            <input type="hidden" name="GenderId" id="GenderId" value="@Model.GenderId" />
+            <div class="container">
+            <div class="row">
+                <div class="col-md-6 col-md-offset-4 alert alert-info">
+                    <label class="form-control">Employee Name</label>
+                    <input type="text" name="GenderName" id="GenderName" value="@Model.GenderName" placeholder="Enter Gender Name" autocomplete="off" />
+                </div>
+
+
+            </div>
+            <br />
+            <br />
+        <center> <input type="submit" value="Save" class="btn btn-success" /></center><br />
+        </div>
+    </div>
+        </div>
+</form>
+<form>
+    <div class="form-horizontal">
+        <div class="form-group">
+            <table class="table table-bordered table-striped">
+                <tr>
+                    <th>Name</th>
+                    <th>Edit</th>
+                    <th>Delete</th>
+
+                </tr>
+                @foreach (var item in db.GenderInfoes)
+                {
+                    <tr>
+                        <td>@item.GenderName</td>
+                        <td><a href="/WI/GenderInfo?id=@item.GenderId">Edit</a></td>
+                        <td><a href="/WI/delGenderInfo?id=@item.GenderId">Delete</a></td>
+                    </tr>
+                }
+            </table>
+        </div>
+    </div>
+</form>
+
